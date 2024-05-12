@@ -11,60 +11,114 @@
     },
     {
       "id": 2,
+      "name": "Akali",
+      "price": 3150,
+      "lane": "Mid/Top",
+      "description": "Akali is an agile assassin who uses her speed, precision, and stealth to take down her enemies.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt80ff58fe809777ff/5db05fa8adc8656c7d24e7d6/RiotX_ChampionList_akali.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt80ff58fe809777ff/5db05fa8adc8656c7d24e7d6/RiotX_ChampionList_akali.jpg?quality=90&width=250"
+    },
+    {
+      "id": 3,
+      "name": "Alistar",
+      "price": 1350,
+      "lane": "Support",
+      "description": "Alistar is a powerful tank who excels at crowd control and protecting his allies.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3b366925d2fd8fdb/5db05fa856458c6b3fc1750b/RiotX_ChampionList_alistar.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3b366925d2fd8fdb/5db05fa856458c6b3fc1750b/RiotX_ChampionList_alistar.jpg?quality=90&width=250"
+    },
+    {
+      "id": 4,
+      "name": "Amumu",
+      "price": 450,
+      "lane": "Jungle",
+      "description": "Amumu is a melancholy yordle who seeks friendship and understanding on the Fields of Justice.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt40dfbe48a61c439f/5db05fa80b39e86c2f83dbf9/RiotX_ChampionList_amumu.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt40dfbe48a61c439f/5db05fa80b39e86c2f83dbf9/RiotX_ChampionList_amumu.jpg?quality=90&width=250"
+    },
+    {
+      "id": 5,
+      "name": "Anivia",
+      "price": 3150,
+      "lane": "Mid",
+      "description": "Anivia is a cryophoenix who uses her ice magic to control the battlefield and protect her homeland.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3d24a1482453088a/5db05fa8df78486c826dcce8/RiotX_ChampionList_anivia.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3d24a1482453088a/5db05fa8df78486c826dcce8/RiotX_ChampionList_anivia.jpg?quality=90&width=250"
+    },
+    {
+      "id": 6,
+      "name": "Annie",
+      "price": 450,
+      "lane": "Mid/Support",
+      "description": "Annie is a pyromaniacal child with immense magical potential, wielding fire with deadly precision.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt28c708665427aef6/5db05fa89481396d6bdd01a6/RiotX_ChampionList_annie.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt28c708665427aef6/5db05fa89481396d6bdd01a6/RiotX_ChampionList_annie.jpg?quality=90&width=250"
+    },
+    {
+      "id": 7,
       "name": "Ashe",
       "price": 450,
       "lane": "ADC",
-      "description": "Ashe is a ranged ADC who excels at kiting enemies with her frost arrows.",
+      "description": "Ashe is a frost archer who can slow, stun, and pick off enemies from a distance with her powerful arrows.",
       "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt943aae038e2dee98/5db05fa8e9effa6ba5295f91/RiotX_ChampionList_ashe.jpg",
       "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt943aae038e2dee98/5db05fa8e9effa6ba5295f91/RiotX_ChampionList_ashe.jpg?quality=90&width=250"
     },
     {
-      "id": 3,
-      "name": "Darius",
-      "price": 4800,
-      "lane": "Top",
-      "description": "Darius is a powerful juggernaut who dominates the top lane with his brute strength and dunking abilities.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt38b52be4a2cb1004/5db05fb19481396d6bdd01ac/RiotX_ChampionList_darius.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt38b52be4a2cb1004/5db05fb19481396d6bdd01ac/RiotX_ChampionList_darius.jpg?quality=90&width=250"
-    },
-    {
-      "id": 4,
-      "name": "Ezreal",
-      "price": 4800,
-      "lane": "ADC",
-      "description": "Ezreal is a versatile marksman who can poke enemies from a distance with his skillshots.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt60f687c95425f73f/5db05fbd2dc72966da746704/RiotX_ChampionList_ezreal.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt60f687c95425f73f/5db05fbd2dc72966da746704/RiotX_ChampionList_ezreal.jpg?quality=90&width=250"
-    },
-    {
-      "id": 5,
-      "name": "Garen",
-      "price": 450,
-      "lane": "Top",
-      "description": "Garen is a durable fighter who excels at close-quarters combat and silencing his opponents.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte41a162aed9339b7/5db05fc60b39e86c2f83dc0d/RiotX_ChampionList_garen.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte41a162aed9339b7/5db05fc60b39e86c2f83dc0d/RiotX_ChampionList_garen.jpg?quality=90&width=250"
-    },
-    {
-      "id": 6,
-      "name": "Jinx",
-      "price": 4800,
-      "lane": "ADC",
-      "description": "Jinx is a hyper carry ADC who can deal massive damage in team fights with her minigun and rocket launcher.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta2cba784d9fad4b8/5db05fce89fb926b491ed817/RiotX_ChampionList_jinx.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta2cba784d9fad4b8/5db05fce89fb926b491ed817/RiotX_ChampionList_jinx.jpg?quality=90&width=250"
-    },
-    {
-      "id": 7,
-      "name": "Katarina",
-      "price": 3150,
-      "lane": "Mid",
-      "description": "Katarina is an agile assassin who excels at jumping into fights and dealing burst damage with her daggers.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb73e3edb5937676a/5db05fd7823d426762825feb/RiotX_ChampionList_katarina.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb73e3edb5937676a/5db05fd7823d426762825feb/RiotX_ChampionList_katarina.jpg?quality=90&width=250"
-    },
-    {
       "id": 8,
+      "name": "Aurelion Sol",
+      "price": 6300,
+      "lane": "Mid",
+      "description": "Aurelion Sol is a cosmic dragon who manipulates stars and space to obliterate his foes.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5dd3569fc67d6664/5db05fa8bd24496c390ae4d8/RiotX_ChampionList_aurelionsol.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5dd3569fc67d6664/5db05fa8bd24496c390ae4d8/RiotX_ChampionList_aurelionsol.jpg?quality=90&width=250"
+    },
+    {
+      "id": 9,
+      "name": "Azir",
+      "price": 4800,
+      "lane": "Mid",
+      "description": "Azir is an emperor of the sands, commanding an army of soldiers and shaping the battlefield with his sand magic.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt0e3f847946232167/5db05fa889fb926b491ed7ff/RiotX_ChampionList_azir.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt0e3f847946232167/5db05fa889fb926b491ed7ff/RiotX_ChampionList_azir.jpg?quality=90&width=250"
+    },
+    {
+      "id": 10,
+      "name": "Bard",
+      "price": 6300,
+      "lane": "Support",
+      "description": "Bard is a cosmic caretaker who travels through realms, collecting chimes and aiding his allies with magical melodies.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltbbe3ce0c0ae1305b/5db05fb23a326d6df6c0e7b3/RiotX_ChampionList_bard.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltbbe3ce0c0ae1305b/5db05fb23a326d6df6c0e7b3/RiotX_ChampionList_bard.jpg?quality=90&width=250"
+    },
+    {
+      "id": 11,
+      "name": "Blitzcrank",
+      "price": 3150,
+      "lane": "Support",
+      "description": "Blitzcrank is a hulking automaton who pulls enemies into his grasp with his rocket-powered fist.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd7ef7e56ce1fe17b/5db05fb26af83b6d7032c8f8/RiotX_ChampionList_blitzcrank.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd7ef7e56ce1fe17b/5db05fb26af83b6d7032c8f8/RiotX_ChampionList_blitzcrank.jpg?quality=90&width=250"
+    },
+    {
+      "id": 12,
+      "name": "Brand",
+      "price": 4800,
+      "lane": "Mid/Support",
+      "description": "Brand is a fiery mage who rains down destruction upon his enemies with his powerful pyromancy.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc8ca2e9bba653dda/5db05fb2dc674266df3d5d30/RiotX_ChampionList_brand.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc8ca2e9bba653dda/5db05fb2dc674266df3d5d30/RiotX_ChampionList_brand.jpg?quality=90&width=250"
+    },
+    {
+      "id": 13,
+      "name": "Braum",
+      "price": 6300,
+      "lane": "Support",
+      "description": "Braum is a gentle giant who defends his friends with his massive shield and unbreakable resolve.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd140e30fa86d6ddd/5db05fb2242f426df132f95d/RiotX_ChampionList_braum.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd140e30fa86d6ddd/5db05fb2242f426df132f95d/RiotX_ChampionList_braum.jpg?quality=90&width=250"
+    },
+    {
+      "id": 14,
       "name": "Lee Sin",
       "price": 4800,
       "lane": "Jungle",
@@ -73,79 +127,7 @@
       "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt075d278529811445/5db05fde6af83b6d7032c8fe/RiotX_ChampionList_leesin.jpg?quality=90&width=250"
     },
     {
-      "id": 9,
-      "name": "Lux",
-      "price": 3150,
-      "lane": "Support",
-      "description": "Lux is a versatile support mage who can shield allies, snare enemies, and unleash devastating bursts of light.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb94b4161d8022c45/5db05fdfe9d7526ab429e53c/RiotX_ChampionList_lux.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb94b4161d8022c45/5db05fdfe9d7526ab429e53c/RiotX_ChampionList_lux.jpg?quality=90&width=250"
-    },
-    {
-      "id": 10,
-      "name": "Malphite",
-      "price": 1350,
-      "lane": "Top",
-      "description": "Malphite is a rock-solid tank who excels at absorbing damage and initiating team fights with his unstoppable force.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4d3b4a7e4c44ced7/5db05fdeadc8656c7d24e7e2/RiotX_ChampionList_malaphite.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4d3b4a7e4c44ced7/5db05fdeadc8656c7d24e7e2/RiotX_ChampionList_malaphite.jpg?quality=90&width=250"
-    },
-    {
-      "id": 11,
-      "name": "Miss Fortune",
-      "price": 3150,
-      "lane": "ADC",
-      "description": "Miss Fortune is a lane bully ADC who can harass enemies with her double-up and rain down bullet hell with her ultimate, Bullet Time.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf36fa7fd7ecb59fb/5db05fe89481396d6bdd01b8/RiotX_ChampionList_missfortune.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf36fa7fd7ecb59fb/5db05fe89481396d6bdd01b8/RiotX_ChampionList_missfortune.jpg?quality=90&width=250"
-    },
-    {
-      "id": 12,
-      "name": "Nami",
-      "price": 6300,
-      "lane": "Support",
-      "description": "Nami is a supportive enchanter who excels at healing and empowering her allies while controlling the battlefield with her tidal waves.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt13bec39f49dc35ee/5db05fe956458c6b3fc1751f/RiotX_ChampionList_nami.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt13bec39f49dc35ee/5db05fe956458c6b3fc1751f/RiotX_ChampionList_nami.jpg?quality=90&width=250"
-    },
-    {
-      "id": 13,
-      "name": "Olaf",
-      "price": 3150,
-      "lane": "Top",
-      "description": "Olaf is a fearsome Viking warrior who can charge into battle and shrug off crowd control effects with his Ragnarok.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte922bda45062964b/5db05ff0a6470d6ab91ce5a6/RiotX_ChampionList_olaf.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte922bda45062964b/5db05ff0a6470d6ab91ce5a6/RiotX_ChampionList_olaf.jpg?quality=90&width=250"
-    },
-    {
-      "id": 14,
-      "name": "Rengar",
-      "price": 6300,
-      "lane": "Jungle",
-      "description": "Rengar is a stealthy hunter who can stalk his prey and leap out of the shadows to shred them with his claws.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt282bc8e033db4123/5db05ff9adc8656c7d24e7f6/RiotX_ChampionList_rengar.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt282bc8e033db4123/5db05ff9adc8656c7d24e7f6/RiotX_ChampionList_rengar.jpg?quality=90&width=250"
-    },
-    {
       "id": 15,
-      "name": "Sona",
-      "price": 3150,
-      "lane": "Support",
-      "description": "Sona is a musical support mage who can heal, speed up, and empower her allies with her auras and ultimate, Crescendo.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4810827f74fc21b9/5db06003347d1c6baa57be49/RiotX_ChampionList_sona.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4810827f74fc21b9/5db06003347d1c6baa57be49/RiotX_ChampionList_sona.jpg?quality=90&width=250"
-    },
-    {
-      "id": 16,
-      "name": "Teemo",
-      "price": 1350,
-      "lane": "Top",
-      "description": "Teemo is a mischievous yordle who can plant deadly mushrooms and blind enemies with his toxic darts.",
-      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt30ddbbdc0549078a/5db0600da6470d6ab91ce5b8/RiotX_ChampionList_teemo.jpg",
-      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt30ddbbdc0549078a/5db0600da6470d6ab91ce5b8/RiotX_ChampionList_teemo.jpg?quality=90&width=250"
-    },
-    {
-      "id": 17,
       "name": "Urgot",
       "price": 3150,
       "lane": "Top",
@@ -154,7 +136,88 @@
       "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt162b78ba3ece1d4f/5db060157d28b76cfe43981b/RiotX_ChampionList_urgot.jpg?quality=90&width=250"
     },
     {
+      "id": 16,
+      "name": "Sona",
+      "price": 3150,
+      "lane": "Support",
+      "description": "Sona is a musical support mage who can heal, speed up, and empower her allies with her auras and ultimate, Crescendo.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4810827f74fc21b9/5db06003347d1c6baa57be49/RiotX_ChampionList_sona.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4810827f74fc21b9/5db06003347d1c6baa57be49/RiotX_ChampionList_sona.jpg?quality=90&width=250"
+    },
+    {
+      "id": 17,
+      "name": "Karma",
+      "price": 3150,
+      "lane": "Support/Mid",
+      "description": "Karma is an enlightened mage who uses her inner strength to shield and empower her allies, bringing balance to the battlefield.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt39748c7b67252d6f/5db05fd70b39e86c2f83dc19/RiotX_ChampionList_karma.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt39748c7b67252d6f/5db05fd70b39e86c2f83dc19/RiotX_ChampionList_karma.jpg?quality=90&width=250"
+    },
+    {
       "id": 18,
+      "name": "Teemo",
+      "price": 1350,
+      "lane": "Top",
+      "description": "Teemo is a mischievous yordle who can plant deadly mushrooms and blind enemies with his toxic darts.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt30ddbbdc0549078a/5db0600da6470d6ab91ce5b8/RiotX_ChampionList_teemo.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt30ddbbdc0549078a/5db0600da6470d6ab91ce5b8/RiotX_ChampionList_teemo.jpg?quality=90&width=250"
+    },
+    {
+      "id": 19,
+      "name": "Darius",
+      "price": 4800,
+      "lane": "Top",
+      "description": "Darius is a fearsome warrior who wields his massive axe to cleave through his enemies with unmatched brutality.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt38b52be4a2cb1004/5db05fb19481396d6bdd01ac/RiotX_ChampionList_darius.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt38b52be4a2cb1004/5db05fb19481396d6bdd01ac/RiotX_ChampionList_darius.jpg?quality=90&width=250"
+    },
+    {
+      "id": 20,
+      "name": "Diana",
+      "price": 4800,
+      "lane": "Mid/Jungle",
+      "description": "Diana is a relentless fighter who wields the power of the moon to devastate her foes in battle.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt56570083d2a5e20e/5db05fbc823d426762825fdf/RiotX_ChampionList_diana.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt56570083d2a5e20e/5db05fbc823d426762825fdf/RiotX_ChampionList_diana.jpg?quality=90&width=250"
+    },
+    {
+      "id": 21,
+      "name": "Miss Fortune",
+      "price": 3150,
+      "lane": "ADC",
+      "description": "Miss Fortune is a lane bully ADC who can harass enemies with her double-up and rain down bullet hell with her ultimate, Bullet Time.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf36fa7fd7ecb59fb/5db05fe89481396d6bdd01b8/RiotX_ChampionList_missfortune.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf36fa7fd7ecb59fb/5db05fe89481396d6bdd01b8/RiotX_ChampionList_missfortune.jpg?quality=90&width=250"
+    },
+    {
+      "id": 22,
+      "name": "Nami",
+      "price": 6300,
+      "lane": "Support",
+      "description": "Nami is a supportive enchanter who excels at healing and empowering her allies while controlling the battlefield with her tidal waves.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt13bec39f49dc35ee/5db05fe956458c6b3fc1751f/RiotX_ChampionList_nami.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt13bec39f49dc35ee/5db05fe956458c6b3fc1751f/RiotX_ChampionList_nami.jpg?quality=90&width=250"
+    },
+    {
+      "id": 23,
+      "name": "Ekko",
+      "price": 6300,
+      "lane": "Mid/Jungle",
+      "description": "Ekko is a street-smart inventor who uses his time-manipulating device to outmaneuver his enemies and rewrite history.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf22ba7e6328e4376/5db05fbd242f426df132f963/RiotX_ChampionList_ekko.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf22ba7e6328e4376/5db05fbd242f426df132f963/RiotX_ChampionList_ekko.jpg?quality=90&width=250"
+    },
+    {
+      "id": 24,
+      "name": "Elise",
+      "price": 4800,
+      "lane": "Jungle/Top",
+      "description": "Elise is a deadly spider queen who switches between human and spider form to hunt down her prey with lethal precision.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltfe21ff2ddb84d5d1/5db05fbd0b39e86c2f83dc05/RiotX_ChampionList_elise.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltfe21ff2ddb84d5d1/5db05fbd0b39e86c2f83dc05/RiotX_ChampionList_elise.jpg?quality=90&width=250"
+    },
+    {
+      "id": 25,
       "name": "Veigar",
       "price": 1350,
       "lane": "Mid",
@@ -163,7 +226,34 @@
       "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltda2b568b0c3e5847/5db06014e9effa6ba5295fb9/RiotX_ChampionList_veigar.jpg?quality=90&width=250"
     },
     {
-      "id": 19,
+      "id": 26,
+      "name": "Ezreal",
+      "price": 3150,
+      "lane": "ADC/Mid",
+      "description": "Ezreal is a daring adventurer who uses his mystical gauntlet to unleash powerful energy blasts and explore ancient ruins.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt60f687c95425f73f/5db05fbd2dc72966da746704/RiotX_ChampionList_ezreal.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt60f687c95425f73f/5db05fbd2dc72966da746704/RiotX_ChampionList_ezreal.jpg?quality=90&width=250"
+    },
+    {
+      "id": 27,
+      "name": "Lux",
+      "price": 3150,
+      "lane": "Support",
+      "description": "Lux is a versatile support mage who can shield allies, snare enemies, and unleash devastating bursts of light.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb94b4161d8022c45/5db05fdfe9d7526ab429e53c/RiotX_ChampionList_lux.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb94b4161d8022c45/5db05fdfe9d7526ab429e53c/RiotX_ChampionList_lux.jpg?quality=90&width=250"
+    },
+    {
+      "id": 28,
+      "name": "Fiora",
+      "price": 4800,
+      "lane": "Top",
+      "description": "Fiora is a duelist par excellence, using her fencing skills and precision strikes to outmaneuver and defeat her opponents.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt935dd149b2617ac8/5db05fbcdc674266df3d5d36/RiotX_ChampionList_fiora.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt935dd149b2617ac8/5db05fbcdc674266df3d5d36/RiotX_ChampionList_fiora.jpg?quality=90&width=250"
+    },
+    {
+      "id": 29,
       "name": "Wukong",
       "price": 4800,
       "lane": "Top",
@@ -172,13 +262,175 @@
       "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltaf44673e1a16af30/5db05fe87d28b76cfe439807/RiotX_ChampionList_monkeyking.jpg?quality=90&width=250"
     },
     {
-      "id": 20,
+      "id": 30,
+      "name": "Galio",
+      "price": 4800,
+      "lane": "Mid/Support",
+      "description": "Galio is a gargoyle colossus who defends his allies with his massive stone form and devastating magic.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5890d1ab5c8be01f/5db05fc6823d426762825fe5/RiotX_ChampionList_galio.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5890d1ab5c8be01f/5db05fc6823d426762825fe5/RiotX_ChampionList_galio.jpg?quality=90&width=250"
+    },
+    {
+      "id": 31,
+      "name": "Olaf",
+      "price": 3150,
+      "lane": "Top",
+      "description": "Olaf is a fearsome Viking warrior who can charge into battle and shrug off crowd control effects with his Ragnarok.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte922bda45062964b/5db05ff0a6470d6ab91ce5a6/RiotX_ChampionList_olaf.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte922bda45062964b/5db05ff0a6470d6ab91ce5a6/RiotX_ChampionList_olaf.jpg?quality=90&width=250"
+    },
+    {
+      "id": 32,
+      "name": "Garen",
+      "price": 450,
+      "lane": "Top",
+      "description": "Garen is a mighty warrior who fights for justice and honor, wielding his massive sword to cleave through his enemies.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte41a162aed9339b7/5db05fc60b39e86c2f83dc0d/RiotX_ChampionList_garen.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte41a162aed9339b7/5db05fc60b39e86c2f83dc0d/RiotX_ChampionList_garen.jpg?quality=90&width=250"
+    },
+    {
+      "id": 33,
+      "name": "Gnar",
+      "price": 4800,
+      "lane": "Top",
+      "description": "Gnar is a yordle with a short temper and a massive transformation, becoming a ferocious beast in battle.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta80f79dd96ee5d30/5db05fc6df78486c826dcd00/RiotX_ChampionList_gnar.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta80f79dd96ee5d30/5db05fc6df78486c826dcd00/RiotX_ChampionList_gnar.jpg?quality=90&width=250"
+    },
+    {
+      "id": 34,
       "name": "Yasuo",
       "price": 6300,
       "lane": "Mid",
       "description": "Yasuo is a master swordsman who can deflect enemy projectiles with his Wind Wall and unleash whirlwinds of steel with his sweeping blade techniques.",
       "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3a319fc884dc6880/5db0601c242f426df132f985/RiotX_ChampionList_yasuo.jpg",
       "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3a319fc884dc6880/5db0601c242f426df132f985/RiotX_ChampionList_yasuo.jpg?quality=90&width=250"
+    },
+    {
+      "id": 35,
+      "name": "Graves",
+      "price": 4800,
+      "lane": "ADC/Jungle",
+      "description": "Graves is a seasoned outlaw who relies on his grit and firepower to take down his enemies and get rich in the process.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt2e7cd286d7b6182e/5e9a59c245a2a97194a1d4c7/RiotX_ChampionList_graves-cigar.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt2e7cd286d7b6182e/5e9a59c245a2a97194a1d4c7/RiotX_ChampionList_graves-cigar.jpg?quality=90&width=250"
+    },
+    {
+      "id": 36,
+      "name": "Gwen",
+      "price": 6300,
+      "lane": "Top",
+      "description": "Gwen is a seamstress who was brought back to life by magical threads, wielding them as deadly weapons to protect her home.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7a3d6c549708c048/607496eb1f74bb759da6a062/RiotX_ChampionList_gwen.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7a3d6c549708c048/607496eb1f74bb759da6a062/RiotX_ChampionList_gwen.jpg?quality=90&width=250"
+    },
+    {
+      "id": 37,
+      "name": "Rengar",
+      "price": 6300,
+      "lane": "Jungle",
+      "description": "Rengar is a stealthy hunter who can stalk his prey and leap out of the shadows to shred them with his claws.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt282bc8e033db4123/5db05ff9adc8656c7d24e7f6/RiotX_ChampionList_rengar.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt282bc8e033db4123/5db05ff9adc8656c7d24e7f6/RiotX_ChampionList_rengar.jpg?quality=90&width=250"
+    },
+    {
+      "id": 38,
+      "name": "Heimerdinger",
+      "price": 3150,
+      "lane": "Mid/Top/Support",
+      "description": "Heimerdinger is a brilliant inventor who constructs turrets and gadgets to control the battlefield and protect his allies.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd30d85446d154070/5db05fc57d28b76cfe4397ef/RiotX_ChampionList_heimerdinger.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd30d85446d154070/5db05fc57d28b76cfe4397ef/RiotX_ChampionList_heimerdinger.jpg?quality=90&width=250"
+    },
+    {
+      "id": 39,
+      "name": "Illaoi",
+      "price": 6300,
+      "lane": "Top",
+      "description": "Illaoi is a priestess of the kraken who tests the faith of her enemies, summoning tentacles to crush those who doubt her power.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc44e90a5547120a2/5db05fc5347d1c6baa57be2b/RiotX_ChampionList_illaoi.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc44e90a5547120a2/5db05fc5347d1c6baa57be2b/RiotX_ChampionList_illaoi.jpg?quality=90&width=250"
+    },
+    {
+      "id": 40,
+      "name": "Irelia",
+      "price": 4800,
+      "lane": "Top/Mid",
+      "description": "Irelia is a master of the blade dance, using her telekinetic powers to gracefully slice through her enemies with deadly precision.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf5f2b8de93870aef/5db05fcea6470d6ab91ce59a/RiotX_ChampionList_irelia.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf5f2b8de93870aef/5db05fcea6470d6ab91ce59a/RiotX_ChampionList_irelia.jpg?quality=90&width=250"
+    },
+    {
+      "id": 41,
+      "name": "Ivern",
+      "price": 6300,
+      "lane": "Jungle/Support",
+      "description": "Ivern is a gentle giant who roams the forest, befriending animals and using his magic to nurture and protect the natural world.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5fff73e1df1873de/5db05fce7d28b76cfe4397f5/RiotX_ChampionList_ivern.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5fff73e1df1873de/5db05fce7d28b76cfe4397f5/RiotX_ChampionList_ivern.jpg?quality=90&width=250"
+    },
+    {
+      "id": 42,
+      "name": "Malphite",
+      "price": 1350,
+      "lane": "Top",
+      "description": "Malphite is a rock-solid tank who excels at absorbing damage and initiating team fights with his unstoppable force.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4d3b4a7e4c44ced7/5db05fdeadc8656c7d24e7e2/RiotX_ChampionList_malaphite.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4d3b4a7e4c44ced7/5db05fdeadc8656c7d24e7e2/RiotX_ChampionList_malaphite.jpg?quality=90&width=250"
+    },
+    {
+      "id": 43,
+      "name": "Jarvan IV",
+      "price": 4800,
+      "lane": "Top/Jungle",
+      "description": "Jarvan IV is a noble prince who leads his troops into battle with honor and valor, wielding his lance to protect his kingdom.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5898626d7016d222/5db05fcfdc674266df3d5d3c/RiotX_ChampionList_jarvaniv.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5898626d7016d222/5db05fcfdc674266df3d5d3c/RiotX_ChampionList_jarvaniv.jpg?quality=90&width=250"
+    },
+    {
+      "id": 44,
+      "name": "Jax",
+      "price": 1350,
+      "lane": "Top/Jungle",
+      "description": "Jax is a relentless fighter who wields a lamppost with deadly precision, striking down his enemies with unmatched skill.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt6b301613598c3f17/6529efbb8adde57f76f78c90/RiotX_ChampionList_jax_v2.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt6b301613598c3f17/6529efbb8adde57f76f78c90/RiotX_ChampionList_jax_v2.jpg?quality=90&width=250"
+    },
+    {
+      "id": 45,
+      "name": "Jayce",
+      "price": 4800,
+      "lane": "Top/Mid",
+      "description": "Jayce is a brilliant inventor who fights with a transforming hammer and cannon, adapting to any situation with ease.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt51557edc36ad88a1/5db05fcf0b39e86c2f83dc13/RiotX_ChampionList_jayce.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt51557edc36ad88a1/5db05fcf0b39e86c2f83dc13/RiotX_ChampionList_jayce.jpg?quality=90&width=250"
+    },
+    {
+      "id": 46,
+      "name": "Jhin",
+      "price": 6300,
+      "lane": "ADC",
+      "description": "Jhin is a meticulous marksman who sees killing as an art form, using his gun to execute his victims with style and precision.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltbf6c70d9272a5a2a/5db05fcfe9d7526ab429e532/RiotX_ChampionList_jhin.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltbf6c70d9272a5a2a/5db05fcfe9d7526ab429e532/RiotX_ChampionList_jhin.jpg?quality=90&width=250"
+    },
+    {
+      "id": 47,
+      "name": "Jinx",
+      "price": 6300,
+      "lane": "ADC",
+      "description": "Jinx is a manic marksman who revels in chaos and destruction, unleashing her explosive arsenal to wreak havoc on the battlefield.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta2cba784d9fad4b8/5db05fce89fb926b491ed817/RiotX_ChampionList_jinx.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta2cba784d9fad4b8/5db05fce89fb926b491ed817/RiotX_ChampionList_jinx.jpg?quality=90&width=250"
+    },
+    {
+      "id": 48,
+      "name": "Katarina",
+      "price": 3150,
+      "lane": "Mid",
+      "description": "Katarina is an agile assassin who excels at jumping into fights and dealing burst damage with her daggers.",
+      "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb73e3edb5937676a/5db05fd7823d426762825feb/RiotX_ChampionList_katarina.jpg",
+      "thumbnail": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb73e3edb5937676a/5db05fd7823d426762825feb/RiotX_ChampionList_katarina.jpg?quality=90&width=250"
     }
   ]
 }
